@@ -1,0 +1,22 @@
+{
+  "name": "webhooktest",
+  "version": "1.0.0",
+  "description": "testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jonasspets/webhooktest.git"
+  },
+  "author": "Jonas Spets",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonasspets/webhooktest/issues"
+  },
+  "homepage": "https://github.com/jonasspets/webhooktest",
+  "dependencies": {
+    "karma": "^0.13.19"
+  }
+}
